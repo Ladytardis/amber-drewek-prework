@@ -1,0 +1,39 @@
+
+body {text-align: center;}
+
+header {background-color: grey; width: 100%;
+margin-bottom: 300px;
+position: fixed;
+top: 0;
+right:0;
+left: 0;
+}
+
+#left {float: left;
+    position: fixed;
+    width: 50%;
+    height: 600px;
+background-color: blue;
+margin-top: 50px;
+margin-bottom: 100px;
+margin-right: 0px;
+left: 0;
+line-height: 525px;
+
+}
+
+#right {float: right; width: 25%; background-color: red;
+height: 600px;
+position: fixed;
+line-height: 525px;
+
+margin-top: 50px;
+margin-bottom: 400px;
+right: 0;
+margin-left: 0px;}
+
+footer {background-color: green;
+width: 100%; clear: both;
+position:fixed;
+bottom:0;
+right:0; }
