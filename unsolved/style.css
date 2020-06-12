@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  line-height: 1.5;
+  text-transform: uppercase;
+  background-color:rgb(35, 148, 168);
+  font-family: arial Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#fmd {float: top; text-align: left; font-weight: bold; font-size: small ; color: white;}
+
+
+div {text-align: center; align-items: center; padding: 40% 0% 5%;}
+h1 {black; font-size: smaller; display: inline-block; 20px margin: 20px;}
+
+h2 {line-height: 70px;color: white; font-size: 70px; margin: 5%}
+a {border:2px solid; 
+border-radius: 3px;
+display: inline-block;
+margin: 10px;
+padding: 5px;
+color: white;
+text-decoration: none;
+}
