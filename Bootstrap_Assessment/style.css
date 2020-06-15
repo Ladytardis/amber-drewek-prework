@@ -1,0 +1,17 @@
+body {
+    text-transform: uppercase;
+  background-color:cyan;
+  font-family: arial Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; line-height: 36px;
+}
+
+#container {text-align: center;
+margin: 0;}
+h1 {text-align: left; font-weight: bold; background-color: cyan;}
+h2 {text-align: center; font-weight: bolder; background-color: cyan;}
+#jumbotron {background-color:cyan; text-align: center;}
+
+p {text-align:center; color: black; text-align: center;}
+a {text-align: center;}
+
+
+
