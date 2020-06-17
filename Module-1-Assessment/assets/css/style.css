@@ -1,0 +1,11 @@
+body {background-image: url(../images/norwegian_rose.png); text-align: center; height: 100%; font-family: Arial, Helvetica, sans-serif;}
+
+#top {width: 960px; margin-top: 0px; margin-bottom: auto; background-color: white; padding: 0; align-self: center;} 
+header {background-color: teal;}
+.h1 {background-color: teal;}
+.container {background-color: white; margin-top: 5%; margin-bottom: 5%; width: 960px; align-self: center;}
+
+#footer {margin-top: auto; background-color: #666666; color:white; margin-bottom: 0; padding: 0;
+}
+
+
