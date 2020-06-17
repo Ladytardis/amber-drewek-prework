@@ -1,10 +1,9 @@
   body {background-image: url(../images/norwegian_rose.png); text-align: left; height: 100%; font-family: Arial, Helvetica, sans-serif;}
 
-#top {width: 960px; margin-top: 0px; margin-bottom: 5%; background-color: white; align-self: center; line-height: normal; border-color: #cccccc; border-width: 10px;} 
-.p {margin-bottom: 1%;}
-.col-2 {background-color: teal; color: white; line-height: large;}
-h1 {color: #ffffff; font-size: large; text-align: center;}
-.container {background-color: #ffffff; border-color: #dddddd; margin-top: 5%; margin-bottom: 5%; width: 960px; align-self: center;}
+#top {width: 960px; margin-top: 0px; margin-bottom: 5%; background-color: white; align-self: center; line-height: normal; border-color: #cccccc;} 
+.col-2 {background-color: teal; color: #ffffff; line-height: small;}
+h1 {color: #ffffff; font-size: medium; text-align: center;}
+.container {background-color: #ffffff; border-color: #dddddd; margin-top: 5%; margin-bottom: 5%; width: 960px; align-self: center; }
 header {color: teal; font-size: larger; font-family: Georgia, 'Times New Roman', Times, serif;}
 #footer {text-align: center; margin-top: auto; background-color: #666666; color:white; margin-bottom: 0; border-width: 2px;}
 #Contact {text-align: left;}
